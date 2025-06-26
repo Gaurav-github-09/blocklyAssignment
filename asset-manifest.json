@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/blocklyAssignment/static/css/main.22598044.css",
+    "main.js": "/blocklyAssignment/static/js/main.0436d08b.js",
+    "static/js/453.96453769.chunk.js": "/blocklyAssignment/static/js/453.96453769.chunk.js",
+    "static/media/ProfPicDark.png": "/blocklyAssignment/static/media/ProfPicDark.471dcf56b1ca365c337d.png",
+    "static/media/ProfilePic.png": "/blocklyAssignment/static/media/ProfilePic.9d0b8b1c339386415a77.png",
+    "static/media/YellowLight.png": "/blocklyAssignment/static/media/YellowLight.5a3bd05ff4a97841e39d.png",
+    "static/media/LightLeft.png": "/blocklyAssignment/static/media/LightLeft.818f6de18db51148c436.png",
+    "static/media/Vector1.png": "/blocklyAssignment/static/media/Vector1.ded9c3905f247b21d988.png",
+    "static/media/BottomrightLight.png": "/blocklyAssignment/static/media/BottomrightLight.888062a4721987204627.png",
+    "static/media/BtmRightDark.png": "/blocklyAssignment/static/media/BtmRightDark.725e5d1a3c6a0f885ba5.png",
+    "static/media/Rectangle.png": "/blocklyAssignment/static/media/Rectangle.d824ed3fa7d9f8e24cbd.png",
+    "static/media/BtmleftDark.png": "/blocklyAssignment/static/media/BtmleftDark.c2e5fcac7c2faf061660.png",
+    "static/media/Vector3.png": "/blocklyAssignment/static/media/Vector3.afd0713f42e4dcdcabba.png",
+    "static/media/Cornerdark.png": "/blocklyAssignment/static/media/Cornerdark.4d4659989f26ef132b58.png",
+    "static/media/SocialDark.PNG": "/blocklyAssignment/static/media/SocialDark.7234d75fa81f12a64659.PNG",
+    "static/media/EmailDark.PNG": "/blocklyAssignment/static/media/EmailDark.e08ec23d94b01f32d5a0.PNG",
+    "static/media/SocialsLinks.png": "/blocklyAssignment/static/media/SocialsLinks.a68f5234903674318e0e.png",
+    "static/media/Logolight.jpg": "/blocklyAssignment/static/media/Logolight.8f6a94e04b1659ac1a5b.jpg",
+    "index.html": "/blocklyAssignment/index.html",
+    "main.22598044.css.map": "/blocklyAssignment/static/css/main.22598044.css.map",
+    "main.0436d08b.js.map": "/blocklyAssignment/static/js/main.0436d08b.js.map",
+    "453.96453769.chunk.js.map": "/blocklyAssignment/static/js/453.96453769.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.22598044.css",
+    "static/js/main.0436d08b.js"
+  ]
+}
