@@ -1,0 +1,64 @@
+.Name {
+  font-family: Segoe UI;
+  font-weight: 700;
+  font-size: 25px;
+  line-height: 100%;
+  letter-spacing: 0%;
+}
+
+.headerContainer {
+  padding: 20px;
+  width: 100%;
+  margin: 0px;
+  position: fixed;
+  background-color: white;
+  display: flex;
+  z-index: 150;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.detailsContainer {
+  display: flex;
+  flex-direction: row;
+  list-style-type: none;
+  align-items: center;
+  justify-content: space-around;
+  width: 65%;
+}
+
+.listElement {
+  font-family: Segoe UI;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 100%;
+  letter-spacing: 0%;
+}
+
+.containerLogo {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.logo {margin-left: 10px;
+  margin-right: 10px;
+  width: 35px;
+  height: 40px;
+  top: 59px;
+  left: 112px;
+}
+
+.theme {
+  margin-left: 10px;
+  width: 40px;
+  height: 40px;
+}
+
+
+.darkEff{
+  background-color: #151515;
+  color: white;
+}
