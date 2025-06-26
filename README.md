@@ -10,7 +10,8 @@ Light Theme Format -
 
 1 - ![Screenshot 2025-06-26 084959](https://github.com/user-attachments/assets/cdf3f7ed-867c-47cc-8095-fb278127869b)
 
-2 - ![Screenshot 2024-06-06 082544](https://github.com/user-attachments/assets/9d1aadbd-825c-4534-8e61-0bb0742642f8)
+2 - ![Screenshot 2025-06-26 085118](https://github.com/user-attachments/assets/d06a9797-7957-41f2-ba28-30601d58db8a)
+
 
 ----------------------------------------------------------------------
 
